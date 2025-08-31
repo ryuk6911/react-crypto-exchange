@@ -24,7 +24,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 3,
   },
   {
@@ -32,7 +32,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 3,
   },
   {
@@ -40,7 +40,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 1,
   },
   {
@@ -48,7 +48,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 3,
   },
   {
@@ -56,7 +56,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 2,
   },
   {
@@ -64,7 +64,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 1,
   },
   {
@@ -72,7 +72,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 1,
   },
   {
@@ -80,7 +80,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 3,
   },
   {
@@ -88,7 +88,7 @@ const dataArray: IOrder[] = [
     price: '82,03',
     amount: '0,15',
     total: '237,31',
-    currency: 'TRY',
+    currency: 'CBX',
     type: 2,
   },
 ];

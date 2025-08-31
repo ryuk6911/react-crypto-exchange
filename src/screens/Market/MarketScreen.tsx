@@ -30,17 +30,17 @@ interface ICrypto {
 // variables
 const coinData: ICrypto = {
   id: 1,
-  name: 'Bitcoin',
-  symbol: 'BTC',
+  name: 'Credit-1',
+  symbol: 'CRED1',
   change: '-%3.28',
-  currency: 'TRY',
-  exchange: 'BTC/TRY',
+  currency: 'CBX',
+  exchange: 'CRED1/CBX',
   weight: '104k',
   financialRate: '-0.0252%/hr',
-  icon: 'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Bitcoin-BTC-icon.png',
+  icon: 'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Credit-1-CRED1-icon.png',
   amount: '18.783,33',
   description:
-    'Bitcoin is a cryptocurrency invented in 2008 by an unknown person or group using the name Satoshi Nakamoto. It was released as open-source software in 2009',
+    'Credit-1 is a cryptocurrency backed by $1 carbon credit',
 };
 
 const MarketScreen: React.FC = () => {

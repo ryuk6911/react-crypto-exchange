@@ -5,12 +5,12 @@ const NotFoundScreen: React.FC = () => (
     <img
       draggable='false'
       className='logo-404'
-      alt='Crypto Exchange'
+      alt='Carbon Credit Exchange'
       src={`${process.env.PUBLIC_URL}/images/logo.png`}
     />
     <h1 className='title-404'>404</h1>
     <p className='paragraph-404'>
-      A page like this could not be found on the Crypto Exchange server.
+      A page like this could not be found on the Carbon Credit Exchange server.
     </p>
     <Link to='/' className='button button-purple button-medium'>
       Go to home page

@@ -74,10 +74,10 @@ const Profile: React.FC = () => {
         </div>
         <div className='box-horizontal-padding'>
           <div className='center'>
-            <h3>Cenk SARI</h3>
+            <h3>Sanju Thomas</h3>
             <strong>Level 1</strong>
-            <p>You must be Level 2 to increase your limits.</p>
-            <Link to='/members/application'>Level 2 application</Link>
+            <p>You must do KYB to list your credits.</p>
+            <Link to='/members/application'>Credit listing application</Link>
           </div>
         </div>
       </div>

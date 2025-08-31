@@ -1,6 +1,6 @@
-# React Crypto Exchange Template
+# React Carbon Credit Exchange Template
 
-Are you ready to dive into the world of cryptocurrency trading? Look no further! This React Crypto Exchange Template is designed to provide a solid foundation for building a comprehensive cryptocurrency exchange platform. With its sleek and modern design, this template is perfect for anyone looking to create a user-friendly and intuitive trading experience.
+Are you ready to dive into the world of cryptocurrency trading? Look no further! This React Carbon Credit Exchange Template is designed to provide a solid foundation for building a comprehensive cryptocurrency exchange platform. With its sleek and modern design, this template is perfect for anyone looking to create a user-friendly and intuitive trading experience.
 
 **Key Features**
 
@@ -17,7 +17,7 @@ Are you ready to dive into the world of cryptocurrency trading? Look no further!
 
 **Get Started Today!**
 
-Explore the demo, review the code, and start building your cryptocurrency exchange platform with React Crypto Exchange Template.
+Explore the demo, review the code, and start building your cryptocurrency exchange platform with React Carbon Credit Exchange Template.
 
 ## Support this project
 

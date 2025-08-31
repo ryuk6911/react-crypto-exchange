@@ -22,7 +22,7 @@ const dataArray: IHistory[] = [
   {
     id: 1,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '06:22:15',
     type: 1,
@@ -30,7 +30,7 @@ const dataArray: IHistory[] = [
   {
     id: 2,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '07:30:30',
     type: 1,
@@ -38,7 +38,7 @@ const dataArray: IHistory[] = [
   {
     id: 3,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '09:15:42',
     type: 2,
@@ -46,7 +46,7 @@ const dataArray: IHistory[] = [
   {
     id: 4,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '11:12:50',
     type: 2,
@@ -54,7 +54,7 @@ const dataArray: IHistory[] = [
   {
     id: 5,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '13:30:01',
     type: 1,
@@ -62,7 +62,7 @@ const dataArray: IHistory[] = [
   {
     id: 6,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '14:20:36',
     type: 1,
@@ -70,7 +70,7 @@ const dataArray: IHistory[] = [
   {
     id: 7,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '17:45:58',
     type: 1,
@@ -78,7 +78,7 @@ const dataArray: IHistory[] = [
   {
     id: 8,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '20:05:54',
     type: 1,
@@ -86,7 +86,7 @@ const dataArray: IHistory[] = [
   {
     id: 9,
     amount: '146,70',
-    currency: 'TRY',
+    currency: 'CBX',
     weight: 10,
     time: '22:30:45',
     type: 2,

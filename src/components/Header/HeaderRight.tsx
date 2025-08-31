@@ -56,8 +56,8 @@ const HeaderRight: React.FC = () => {
         <ul className='header-user nowrap'>
           <li>
             <Link to='/members'>
-              <span>Cenk SARI</span>
-              <span>@cenksari</span>
+              <span>Sanju Thomas</span>
+              <span>@sanjuthomas</span>
             </Link>
           </li>
           <li>

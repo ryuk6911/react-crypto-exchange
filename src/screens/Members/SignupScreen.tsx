@@ -106,7 +106,7 @@ const SignupScreen: React.FC = () => {
                 <div className='form-logo center'>
                   <img
                     draggable='false'
-                    alt='Crypto Exchange'
+                    alt='Carbon Credit Exchange'
                     src={`${process.env.PUBLIC_URL}/images/logo.png`}
                   />
                 </div>

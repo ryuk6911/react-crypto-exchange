@@ -9,7 +9,7 @@ const Navbar: React.FC = () => (
       <Link to='/market'>
         <img
           draggable='false'
-          alt='Crypto Exchange'
+          alt='Carbon Credit Exchange'
           src={`${process.env.PUBLIC_URL}/images/logo.png`}
         />
       </Link>
@@ -45,14 +45,14 @@ const Navbar: React.FC = () => (
       </li>
     </ul>
     <div className='copyright'>
-      <strong>Crypto Exchange</strong>
+      <strong>Carbon Credit Exchange</strong>
       <p>
         {new Date().getFullYear()} &copy; All rights reserved.
         <br />
         <br />
         Made with <span>❤</span> by{' '}
-        <a target='_blank' rel='noreferrer' href='https://www.cenksari.com'>
-          Cenk SARI
+        <a target='_blank' rel='noreferrer' href='https://www.volrand.com'>
+          Volrand
         </a>
       </p>
     </div>

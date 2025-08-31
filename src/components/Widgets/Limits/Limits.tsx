@@ -26,8 +26,8 @@ const dataArray: ICrypto[] = [
   },
   {
     id: 2,
-    currency: 'Bitcoin',
-    icon: 'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Bitcoin-BTC-icon.png',
+    currency: 'Credit-1',
+    icon: 'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Credit-1-CRED1-icon.png',
     limit24h: '12.000',
     limit30d: '5.157,00',
     status: 2,

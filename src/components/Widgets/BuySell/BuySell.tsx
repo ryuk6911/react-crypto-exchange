@@ -90,7 +90,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='m' name='m' placeholder='0' />
-                    <strong>BTC</strong>
+                    <strong>CRED1</strong>
                   </div>
                 </div>
                 <div className='buy-sell-percentage flex flex-center flex-space-between no-select'>
@@ -122,7 +122,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='f' name='f' placeholder='0' />
-                    <strong>TRY</strong>
+                    <strong>CBX</strong>
                   </div>
                 </div>
                 <div className='buy-sell-line flex flex-center flex-space-between no-select'>
@@ -137,7 +137,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='m' name='m' placeholder='0' />
-                    <strong>BTC</strong>
+                    <strong>CRED1</strong>
                   </div>
                 </div>
                 <div className='box-button box-vertical-padding'>
@@ -185,7 +185,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='s' name='s' placeholder='0' />
-                    <strong>TRY</strong>
+                    <strong>CBX</strong>
                   </div>
                 </div>
                 <div className='buy-sell-line flex flex-center flex-space-between no-select'>
@@ -200,7 +200,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='l' name='l' placeholder='0' />
-                    <strong>TRY</strong>
+                    <strong>CBX</strong>
                   </div>
                 </div>
                 <div className='buy-sell-line flex flex-center flex-space-between no-select'>
@@ -215,7 +215,7 @@ const BuySell: React.FC = () => {
                   </div>
                   <div className='right'>
                     <input type='text' id='m' name='m' placeholder='0' />
-                    <strong>BTC</strong>
+                    <strong>CRED1</strong>
                   </div>
                 </div>
                 <div className='box-button box-vertical-padding'>
